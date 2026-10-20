@@ -18,3 +18,5 @@ This fictional psychology class project explores how students' study habits may 
 Do not upload personal records, passwords, private information, or identifiable participant data to this repository.
 ## Next step
 Review the project plan and prepare a fictional survey draft for the class activity.
+## Next step
+Review the project plan and prepare a fictional survey draft for the class activity.
